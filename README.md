@@ -1,4 +1,4 @@
-# Final Project
+# Laboratory of Computational Physics Final Project
 
 ## Simulation of a positron-induced Muon source
 
